@@ -29,7 +29,10 @@
 
 #### moedict / 萌典
 
+- [moedict-app](https://github.com/g0v/moedict-app) - 萌典網站及應用程式
 - [moedict-data](https://github.com/g0v/moedict-data) - 教育部重編國語辭典 資料檔
+- [moedict-data-hakka](https://github.com/g0v/moedict-data-hakka) - 臺灣閩南語常用詞辭典 資料檔
+- [moedict-data-hakka](https://github.com/g0v/moedict-data-hakka) - 臺灣客家語常用詞辭典 資料檔
 - [moedict-data-csld](https://github.com/g0v/moedict-data-csld) - 中華語文知識庫 資料檔
 
 ### Other Data / 其他資料
