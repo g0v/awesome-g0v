@@ -23,6 +23,10 @@
 - [ly-tel](https://github.com/g0v/ly-tel) - 立委聯絡資訊
 - [twly-voter-guide](https://github.com/g0v/twly-voter-guide) - 立委投票指南
 
+### Executive Yuan / 行政院相關
+
+- [react.vtaiwan.tw](https://github.com/g0v/react.vtaiwan.tw) - 行政院法規線上諮詢系統 界面 2.0
+- [dc.vtaiwan.tw](https://github.com/g0v/dc.vtaiwan.tw) - 匯流五法：線上徵詢
 
 ## Open Data / 開放資料
 ### Education / 教育
@@ -31,7 +35,7 @@
 
 - [moedict-app](https://github.com/g0v/moedict-app) - 萌典網站及應用程式
 - [moedict-data](https://github.com/g0v/moedict-data) - 教育部重編國語辭典 資料檔
-- [moedict-data-hakka](https://github.com/g0v/moedict-data-hakka) - 臺灣閩南語常用詞辭典 資料檔
+- [moedict-data-twblg](https://github.com/g0v/moedict-data-twblg) - 臺灣閩南語常用詞辭典 資料檔
 - [moedict-data-hakka](https://github.com/g0v/moedict-data-hakka) - 臺灣客家語常用詞辭典 資料檔
 - [moedict-data-csld](https://github.com/g0v/moedict-data-csld) - 中華語文知識庫 資料檔
 
