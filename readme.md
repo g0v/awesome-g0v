@@ -11,6 +11,8 @@
 [![#g0v.tw IRC channel on freenode](https://img.shields.io/badge/irc%20channel-%23g0v.tw%20on%20freenode-blue.svg)](http://webchat.freenode.net/?channels=g0v.tw)
 [![g0v-tw.slack.com](http://join.g0v.today/badge.svg)](http://join.g0v.today)
 
+[comment]: <> (LIST-BEGIN)
+
 ## Infrastructure / g0v 基礎建設
 
 - [website](https://github.com/g0v/g0v.tw) - The web site.
@@ -58,6 +60,7 @@
 
 ## Policy Feedback / 政策共筆
 
+[comment]: <> (LIST-END)
 
 ## License
 
