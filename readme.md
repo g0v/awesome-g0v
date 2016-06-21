@@ -44,7 +44,8 @@
 ### Other Data / 其他資料
 
 - [foundationtw](https://github.com/g0v/foundationtw) - NGO list retreieved from judicial.gov.tw.
-- [urbancode-commission](https://github.com/g0v/urbancode-commission) - 都委會會議紀錄資料庫.
+- [urbancode-commission](https://github.com/g0v/urbancode-commission) - 都委會會議紀錄資料庫
+- [taipei-pop](https://github.com/dz1984/taipei-pop) - 台北市公有地資料與地圖
 
 
 
