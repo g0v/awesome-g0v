@@ -39,4 +39,4 @@ sections = breakdown context, /^## |\n## / .map ->
 
 store = {projects: []}
 traverse sections, 0, 0, store
-fs.write-file-sync \registry.json, JSON.stringify(store.projects)
+fs.write-file-sync \awesome-g0v.json, JSON.stringify(store.projects)
