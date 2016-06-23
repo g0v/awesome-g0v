@@ -1,1 +1,0 @@
-var x$;x$=angular.module("awesome-g0v",[]),x$.controller("awesome-g0v-viewer",["$scope","$http"].concat(function(e,r){return r({url:"registry.json",method:"GET"}).success(function(r){return e.registry=r})}));
