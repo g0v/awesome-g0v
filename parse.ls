@@ -15,9 +15,13 @@ traverse = (node, depth, index, store = {projects: []}) ->
     else => 
       ret = /^- \[([^\]]+)\]\(([^)]+)\) - (.+)/.exec node
       if !ret => return
-      object = {name: ret.1, href: ret.2, description: ret.3, area: store.area}
-      if store.category and !store.parent => object.parent = store.category
-      if store.category and store.parent => object <<< store{category, parent}
+      object = do
+        name: ret.1
+        repository: ret.2
+        description: ret.3
+        area: store.area
+      if store.category and !store.parent => object.partOf = store.category
+      else object <<< {category: store.category, partOf: store.parent}
       <[name href description area category parent]>.map -> if !(object[it]?) => delete object[it]
       store.projects.push object
 
