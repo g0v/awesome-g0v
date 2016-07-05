@@ -105,15 +105,14 @@
 - [foundationtw](https://github.com/g0v/foundationtw) - NGO list retreieved from judicial.gov.tw.
 - [taipei-pop](https://github.com/dz1984/taipei-pop) - 台北市公有地資料與地圖
 
-
 ### 公共安全（公共檢查及違法事項、犯罪與事故、環境與災害）
-
 
 - [agriculture](https://github.com/g0v/agriculture) - 植物疫情與藥劑查詢系統
 - [Real-time-Air-Quality-Map](https://github.com/immortalmice/Real-time-Air-Quality-Map) - 零時空污觀測網
 - [env.g0v.tw](https://github.com/g0v/env.g0v.tw) - 環境儀表板
 - [twlandsat-browse](https://github.com/jimyhuang/twlandsat-browse) - 賽豬公上太空
 - [cacci-opendata](https://github.com/Drainet/cacci-opendata) - 車禍熱點
+
 ### 公營服務（基礎建設、健康與醫療、教育與研究、服務要求與陳情）
 
 - [roadpin](https://github.com/g0v/roadpin) - 路見不平
@@ -165,7 +164,6 @@
 - [chimney_map](https://github.com/kiang/chimney_map) - 固定污染源管制地圖
 - [sheethub](https://sheethub.com) - 分身伐樹
 
-
 ## Social Engagement / 社會參與
 
 - [ly-tel](https://github.com/junsuwhy/ly-tel) - 616 憲在關鍵三步驟「打。道。掛。」
@@ -203,9 +201,6 @@
 - [newshelper-extension](https://github.com/g0v/newshelper-extension) - 新聞小幫手Chrome & Firefox 外掛
 - [newshelper-safari](https://github.com/yllan/newshelper-safari) - 新聞小幫手Safari 外掛
 - [newshelper-backend](https://github.com/g0v/newshelper-backend) - 新聞小幫手後端
-
-
-
 
 ## Policy Feedback / 政策共筆
 
