@@ -34,7 +34,7 @@
 - [g0village-8bit](https://github.com/g0v/g0village-8bit/) - g0v 新手村 8bit
 - [g0v.asia](https://github.com/g0v/g0v.asia/) - g0v.asia
 - [g0vphotos](https://github.com/zbryikt/g0vphotos) - g0v.photos 自己的活動自己拍
-- [metadata-editor](https://github.com/poga/metadata-editor) - g0v專案json產生器
+- [metadata-editor](https://github.com/poga/metadata-editor) - g0v 專案 json 產生器  (g0v.json generator)
 - [issue_aggregator](https://github.com/g0v/issue_aggregator) - g0v issue 搜尋器
 - [moc-license-center](https://github.com/g0v/moc-license-center) - g0v授權中心
 - [cchelper](https://github.com/g0v/cchelper) - g0v開放授權小幫手
