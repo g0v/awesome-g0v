@@ -17,6 +17,8 @@
 
 - [website](https://github.com/g0v/g0v.tw) - The web site.
 - [style-guide](https://github.com/g0v/style-guide) - Logo & styles.
+- [glyph](https://github.com/g0v/glyph) - glyphs
+- [design-guide](https://github.com/g0v/design-guide) - common bootstrap theme and design guide for websites.
 - [hack.g0v.tw](https://github.com/g0v/hack.g0v.tw) - The hackathon portal based on [hackfoldr](http://hackfoldr.org/).
 - [summit.g0v.tw](https://github.com/g0v/summit.g0v.tw) - g0v Summit 台灣零時政府高峰會
 - [hackeditr](https://github.com/g0v/hackeditr) - Hackfoldr Editor
