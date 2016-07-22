@@ -97,7 +97,8 @@
 ### 政府運作（區域劃分與統計、法人基本資料、採購資訊與委外營運服務明細、國防與外交）
 
 - [twstat](https://github.com/g0v/twstat/) - 台灣隨機統計
-- [POPonFire](https://github.com/g0v/POPonFire) - 公有地大行動
+- [POPonFire](https://github.com/g0v/POPonFire) - 公有地大行動 Publicly Owned Property on Fire
+- [taipei-pop](https://github.com/dz1984/taipei-pop) - 台北市公有地資料與地圖 Publicly Owned Property - Taipei
 - [taipei-building-has-reward](https://github.com/cades/taipei-building-has-reward) - 台北市建管處建照記錄
 - [TWDoorplates](https://github.com/g0v/TWDoorplates) - 台灣地址門牌查詢
 - [twgeojson](https://github.com/g0v/twgeojson) - 台灣行政區視覺化
@@ -105,7 +106,6 @@
 - [data.g0v.ronny.tw](https://github.com/ronnywang/data.g0v.ronny.tw) - 政府開放資料平臺備份
 - [local.data](https://github.com/g0v/local.data) - 開放資料建立與普查
 - [foundationtw](https://github.com/g0v/foundationtw) - NGO list retreieved from judicial.gov.tw.
-- [taipei-pop](https://github.com/dz1984/taipei-pop) - 台北市公有地資料與地圖
 
 ### 公共安全（公共檢查及違法事項、犯罪與事故、環境與災害）
 
