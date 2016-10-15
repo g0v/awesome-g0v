@@ -54,7 +54,7 @@
 
 - [react.vtaiwan.tw](https://github.com/g0v/react.vtaiwan.tw) - 行政院法規線上諮詢系統 界面 2.0
 - [dc.vtaiwan.tw](https://github.com/g0v/dc.vtaiwan.tw) - 匯流五法：線上徵詢
-- [tw-court-parser](https://github.com/ronnywang/tw-court-parser) - 台灣法院判決書可分享網址產生器
+- [tw-court-parser](https://github.com/ronnywang/judicial-easyer) - 台灣法院判決書可分享網址產生器
 - [laweasyread-front](https://github.com/g0v/laweasyread-front) - 法規亦毒氣
 - [laweasyread](https://github.com/g0v/laweasyread) - 法規亦毒氣 (API)
 - [extract_declared_sentence](https://github.com/superChing/extract_declared_sentence) - 貪污判決與查詢網站
